@@ -1,0 +1,1 @@
+print("Team J 화이팅!")
